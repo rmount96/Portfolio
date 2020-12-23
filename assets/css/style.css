@@ -1,0 +1,20 @@
+.skill-icons {
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+    padding-top: 15px;
+    margin: 0;
+    font-style: inherit;
+    font-family: inherit;
+}
+
+
+
+i.fab {
+    font-size: 2em;
+}
+
+.python, .js, .react, .node, .aws, .html5, .css3, .github{
+    text-align: center;
+}
